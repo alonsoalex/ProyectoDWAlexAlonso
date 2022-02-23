@@ -131,7 +131,9 @@ TARJETAS */
 
 .textoboton {
   color: black;
-  text-align: center; }
+  text-align: center;
+  text-transform: none;
+  text-decoration: none; }
 
 .textoCard2 {
   color: red; }
